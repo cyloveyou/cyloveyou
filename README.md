@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;小 y 同 学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;小y同学祝您今天愉快!&center=true&size=30">
 </div>
 
 <table>
