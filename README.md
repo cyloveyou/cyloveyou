@@ -56,13 +56,13 @@
 
 ### ✨ Github Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:83%; height:auto;" align="center"  alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:100%; height:auto;" align="center"  alt="Lazy">
 
 <tr><td>
 
 ###  📧 Follow me
 
-<img src="https://files.mdnice.com/user/36889/2062a541-d363-4a39-953e-4bf38071b932.png" style="width:83%; height:auto;" align="center" alt="Lazy">
+<img src="https://files.mdnice.com/user/36889/2062a541-d363-4a39-953e-4bf38071b932.png" style="width:100%; height:auto;" align="center" alt="Lazy">
 
 
 </td></tr>
