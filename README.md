@@ -1,5 +1,6 @@
-###  Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-</td></tr> <tr><td>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;小 y 同 学祝您今天愉快!&center=true&size=27">
+</div>
 
 <table>
 
