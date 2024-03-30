@@ -59,8 +59,9 @@
 
 ###  📧 Follow me
 <table>
-
+<tr><td align="center" width="55%">
 <img align="Left" width="600" src="https://files.mdnice.com/user/36889/e916ac55-da6d-4376-92f3-03dcb8c9799b.jpg" />
+</td><td align="top" width="15%">
 <img align="Left" width="200" src="https://files.mdnice.com/user/36889/90f72fe9-1c32-4e92-b635-cb00e502dccb.jpg" />
 
 </table>
