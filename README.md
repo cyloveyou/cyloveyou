@@ -24,7 +24,7 @@
 <img align="right" width="188" src="https://avatars.githubusercontent.com/u/99404614?v=4" />
 
 <p>&emsp;&emsp;👋 Hello，您好，我是小 y 同 学。</p>
-<p>&emsp;&emsp;👨‍🎓 西安科技大学测绘工程本科生。</p>
+<p>&emsp;&emsp;👨‍🎓 西安科技大学测绘工程专业本科生。</p>
 <p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
 <p>&emsp;&emsp;📚 业余了解一些CATIA3D建模、、Python爬虫、PIE-SDK二次开发、3D打印、激光切割技术。</p>
 <p>&emsp;&emsp;💻 常用编程语言有 Python、C#、MATLAB、C、C++。</p>
