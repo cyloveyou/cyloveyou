@@ -39,30 +39,30 @@
 
 ### 📊 Github Statistics
 
-<table>
+<table >
 
 <tr><td align="center" width="55%">
     
 [![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=cyloveyou&count_private=true&show_icons=true&theme=white)](https://github.com/cyloveyou/github-readme-stats)
 
-</td><td align="top" width="45%">
+</td>
+
+<td align="top" width="45%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyloveyou&layout=compact&theme=white)](https://github.com/cyloveyou/github-readme-stats)
 
+</td>
 </table>
 
 ### ✨ Github Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:83%; height:auto;" align="center"  alt="Lazy">
 
 <tr><td>
 
 ###  📧 Follow me
-<table>
-<tr><td align="center" width="55%">
-<img align="Left" width="500" src="https://files.mdnice.com/user/36889/e916ac55-da6d-4376-92f3-03dcb8c9799b.jpg" />
-</td><td align="top" width="15%">
-<img align="Left" width="100" src="https://files.mdnice.com/user/36889/90f72fe9-1c32-4e92-b635-cb00e502dccb.jpg" />
 
-</table>
+<img src="https://files.mdnice.com/user/36889/2062a541-d363-4a39-953e-4bf38071b932.png" style="width:83%; height:auto;" align="center" alt="Lazy">
+
+
 </td></tr>
