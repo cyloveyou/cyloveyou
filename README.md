@@ -26,7 +26,7 @@
 <p>&emsp;&emsp;👋 Hello，您好，我是小 y 同 学。</p>
 <p>&emsp;&emsp;👨‍🎓 西安科技大学测绘工程专业本科生。</p>
 <p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
-<p>&emsp;&emsp;📚 业余了解一些CATIA3D建模、、Python爬虫、PIE-SDK二次开发、3D打印、激光切割技术。</p>
+<p>&emsp;&emsp;📚 业余了解一些CATIA3D建模、Python爬虫、PIE-SDK二次开发、3D打印、激光切割技术。</p>
 <p>&emsp;&emsp;💻 常用编程语言有 Python、C#、MATLAB、C、C++。</p>
 <p>&emsp;&emsp;💡 希望可以为祖国测绘遥感事业献绵薄之力，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
