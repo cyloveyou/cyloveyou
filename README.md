@@ -3,7 +3,6 @@
 </div>
 
 <table>
-
 <tr><td>
     
 ### 🤺 About Me
@@ -17,9 +16,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=cyloveyou&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
 <div>&nbsp;</div>
-
 
 <img align="right" width="188" src="https://avatars.githubusercontent.com/u/99404614?v=4" />
 
@@ -27,12 +24,12 @@
 <p>&emsp;&emsp;👨‍🎓 西安科技大学测绘工程专业本科生。</p>
 <p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
 <p>&emsp;&emsp;📚 业余了解一些CATIA3D建模、Python爬虫、PIE-SDK二次开发、3D打印、激光切割技术。</p>
-<p>&emsp;&emsp;💻 常用编程语言有 Python、C#、MATLAB、C、C++。</p>
+<p>&emsp;&emsp;💻 常用编程语言有 Python、C#、MATLAB、C、C++，对Linux也有涉猎。</p>
 <p>&emsp;&emsp;💡 希望可以为祖国测绘遥感事业献绵薄之力，为建设美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 <div>&nbsp;</div>
-
-</td></tr>
+</td>
+</tr>
 
 
 
@@ -64,6 +61,5 @@
 ###  📧 Follow me
 
 <img src="https://files.mdnice.com/user/36889/2062a541-d363-4a39-953e-4bf38071b932.png" style="width:100%; height:auto;" align="center" alt="Lazy">
-
 
 </td></tr>
