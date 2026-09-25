@@ -50,16 +50,8 @@
 ### ✨ Github Activity
 
 <p align="center">
-  <img src="./github-city.svg" width="100%" alt="GitHub City">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity">
 </p>
-
-<details>
-  <summary>📈 Contribution details</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity Details">
-  </p>
-</details>
 
 <tr><td>
 
