@@ -50,13 +50,16 @@
 ### ✨ Github Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity">
+  <img src="./github-skyline.svg" width="100%" alt="GitHub Skyline">
 </p>
 
-<!--
-如果后面决定启用 3D Contribution Calendar，可以把上面的 Activity 卡片替换为：
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Calendar">
--->
+<details>
+  <summary>📈 Contribution details</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity Details">
+  </p>
+</details>
 
 <tr><td>
 
