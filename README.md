@@ -50,7 +50,7 @@
 ### ✨ Github Activity
 
 <p align="center">
-  <img src="./github-skyline.svg" width="100%" alt="GitHub Skyline">
+  <img src="./github-city.svg" width="100%" alt="GitHub City">
 </p>
 
 <details>
