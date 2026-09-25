@@ -38,19 +38,19 @@
 ### 📊 Github Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyloveyou&theme=vue" width="49%" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=vue" width="49%" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyloveyou&theme=solarized" width="49%" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=solarized" width="49%" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyloveyou&theme=vue" width="49%" alt="Most Commit Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyloveyou&theme=vue&utcOffset=8" width="49%" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyloveyou&theme=solarized" width="49%" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyloveyou&theme=solarized&utcOffset=8" width="49%" alt="Productive Time">
 </p>
 
 ### ✨ Github Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=solarized" width="100%" alt="GitHub Activity">
 </p>
 
 <!--
