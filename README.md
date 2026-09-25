@@ -37,11 +37,16 @@
 
 ### 📊 Github Statistics
 
-> GitHub Readme Stats 的公共 Vercel 服务目前不稳定，因此暂时移除失效的 Stats / Top Languages 图片，避免主页出现破图。
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyloveyou&theme=default" width="49%" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=default" width="49%" alt="Top Languages">
+</p>
 
 ### ✨ Github Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyloveyou&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:100%; height:auto;" align="center" alt="GitHub Activity">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=default" width="100%" alt="GitHub Activity">
+</p>
 
 <tr><td>
 
