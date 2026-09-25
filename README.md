@@ -42,9 +42,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=vue" width="49%" alt="Top Languages">
 </p>
 
+### 📅 Contribution Overview
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyloveyou&theme=vue" width="49%" alt="Most Commit Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyloveyou&theme=vue&utcOffset=8" width="49%" alt="Productive Time">
+  <img src="./github-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar">
 </p>
 
 ### ✨ Github Activity
