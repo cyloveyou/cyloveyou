@@ -38,15 +38,25 @@
 ### 📊 Github Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyloveyou&theme=default" width="49%" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=default" width="49%" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyloveyou&theme=vue" width="49%" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyloveyou&theme=vue" width="49%" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyloveyou&theme=vue" width="49%" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyloveyou&theme=vue&utcOffset=8" width="49%" alt="Productive Time">
 </p>
 
 ### ✨ Github Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=default" width="100%" alt="GitHub Activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyloveyou&theme=vue" width="100%" alt="GitHub Activity">
 </p>
+
+<!--
+如果后面决定启用 3D Contribution Calendar，可以把上面的 Activity 卡片替换为：
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Calendar">
+-->
 
 <tr><td>
 
