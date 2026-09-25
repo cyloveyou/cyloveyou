@@ -37,24 +37,11 @@
 
 ### 📊 Github Statistics
 
-<table >
-
-<tr><td align="center" width="55%">
-    
-[![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=cyloveyou&count_private=true&show_icons=true&theme=white)](https://github.com/cyloveyou/github-readme-stats)
-
-</td>
-
-<td align="top" width="45%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyloveyou&layout=compact&theme=white)](https://github.com/cyloveyou/github-readme-stats)
-
-</td>
-</table>
+> GitHub Readme Stats 的公共 Vercel 服务目前不稳定，因此暂时移除失效的 Stats / Top Languages 图片，避免主页出现破图。
 
 ### ✨ Github Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:100%; height:auto;" align="center"  alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyloveyou&theme=tokyo-day&custom_title=Activity&radius=30&height=250" style="width:100%; height:auto;" align="center" alt="GitHub Activity">
 
 <tr><td>
 
